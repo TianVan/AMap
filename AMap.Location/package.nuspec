@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <!--*-->
+    <id>$id$</id>
+    <!--*-->
+    <version>3.6.1</version>
+    <title>
+    </title>
+    <!--*-->
+    <authors>Van&amp;Tian</authors>
+    <owners>Van&amp;Tian</owners>
+    <!--
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--*-->
+    <description>Xamarin.Android's&amp;#x0020;Binding&amp;#x0020;Library&amp;#x0020;Of&amp;#x0020;AMAp&amp;#x0020;Location&amp;#x0020;Sdk</description>
+    <!--*-->
+    <releaseNotes>Xamarin.Android's&amp;#x0020;Binding&amp;#x0020;Library&amp;#x0020;Of&amp;#x0020;AMAp&amp;#x0020;Location&amp;#x0020;Sdk</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>
+    </tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
